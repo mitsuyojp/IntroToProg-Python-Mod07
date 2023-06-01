@@ -19,6 +19,13 @@ I’d like to explain the steps I took in performing this assignment.
 ## What are steps?
 ### 1.	Start with simple script using Lab7-1
 I have to include Pickling and Exception Handling, but first, I started with a simple Lab7-1 file to use Pickling.  
+![](Fig1.jpg "Figure 1 A Screenshot of Lab7-1 Script (PyCharm)")  
+Figure 1 A Screenshot of Lab7-1 Script (PyCharm)  
+  
+  
+It is working fine!
+![](Picture2.png "Figure 2 A Screenshot of Lab7-1 Script (PyCharm)")  
+Figure 2 A Screenshot of Lab7-1 Test Result (PyCharm)
 
 
 
