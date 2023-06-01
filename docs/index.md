@@ -1,11 +1,3 @@
-# Module07 Website
----
-[Google Homepage](https://www.google.com "Google's Homepage")
-
-
-[GitHub Webpage Code CheatSheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-
-
 **Dev:** *MKawano*   
 **Date:** *5.31.2023*  
 **Course:** *Foundations of Programming Python*  
@@ -17,9 +9,31 @@
 # The Steps in Performing the Assignment Script
 
 
-## Structured Error Handling (Try-Except)
-When you are programming, you fix your bugs immediately and make sure the code runs smoothly. However, it often happens that other people introduce new bugs when they use your program.
+## Introduction
+In Module 7, we learned about working with Text Files, Binary Files, Error Handling, and Creating Advanced GitHub pages with Markdown. 
+Module 7 assignment is creating a script using Exception Handling and Pickling.
+I’d like to explain the steps I took in performing this assignment.  
+  
+  
+  
+## What are steps?
+### 1.	Start with simple script using Lab7-1
+I have to include Pickling and Exception Handling, but first, I started with a simple Lab7-1 file to use Pickling.  
 
-### Raising Custom Errors
-Python automatically generates errors based on conditions defined by the Python Runtime. However, you can also "raise" errors based on custom conditions (Listing 13). 
 
+
+
+
+
+### 2. Think about possible errors and modify the script (ID Number)
+
+### 3. Think of another possible error and modify the script (Name)
+
+
+
+## Summary
+ 
+   Here is the summary of steps to complete this assignment.  
+        1. Start with simple script using Lab7-1  
+        2. Think about possible errors and modify the script (ID Number)  
+        3. Think of another possible error and modify the script (Name)  
