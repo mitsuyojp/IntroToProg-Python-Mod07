@@ -2,7 +2,7 @@
 **Date:** *5.31.2023*  
 **Course:** *Foundations of Programming Python*  
 **Assignment 07**  
-**GitHubURL:**  
+**GitHubURL:**  *https://github.com/mitsuyojp/IntroToProg-Python-Mod07* 
   
     
   
